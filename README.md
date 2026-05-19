@@ -21,7 +21,7 @@ Experiência em ambientes corporativos, infraestrutura Linux, integração de si
 ## Stack
 
 ```txt
-Java • Spring Boot • Node.js
+Python • Spring Boot • Node.js
 AWS • Docker • Linux
 MySQL • APIs REST • DevOps
 Segurança • Automação • Infraestrutura
