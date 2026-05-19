@@ -1,7 +1,7 @@
 <h1 align="center">Lúcio Lima</h1>
 
 <p align="center">
-  Backend • Cloud • Segurança • Infraestrutura
+  Backend • Cloud • Security • Infrastructure
 </p>
 
 <p align="center">
@@ -10,11 +10,11 @@
 
 ---
 
-## Sobre
+## About
 
-Profissional de tecnologia com foco em desenvolvimento backend, infraestrutura cloud, segurança da informação e automação.
+Technology professional focused on backend development, cloud infrastructure, cybersecurity and automation.
 
-Experiência em ambientes corporativos, infraestrutura Linux, integração de sistemas e construção de soluções escaláveis.
+Experience with enterprise environments, Linux infrastructure, system integration and scalable solutions.
 
 ---
 
@@ -23,8 +23,8 @@ Experiência em ambientes corporativos, infraestrutura Linux, integração de si
 ```txt
 Python • Spring Boot • Node.js
 AWS • Docker • Linux
-MySQL • APIs REST • DevOps
-Segurança • Automação • Infraestrutura
+MySQL • REST APIs • DevOps
+Security • Automation • Infrastructure
 ```
 ---
 
