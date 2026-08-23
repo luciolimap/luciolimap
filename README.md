@@ -10,22 +10,29 @@
 
 ---
 
+# Lúcio Lima
+
+Mobile Developer (Flutter) • Full-Stack • Backend & Cloud
+
+[LinkedIn](https://www.linkedin.com/in/luciolimap/)
+
+---
+
 ## About
 
-Technology professional focused on backend development, cloud infrastructure, cybersecurity and automation.
-
-Experience with enterprise environments, Linux infrastructure, system integration and scalable solutions.
+Desenvolvedor mobile focado em Flutter, com experiência prévia em
+desenvolvimento full-stack (Python/Node.js), deploy em nuvem (AWS, Docker)
+e suporte técnico remoto. Buscando minha primeira posição como estagiário
+em desenvolvimento mobile.
 
 ---
 
 ## Stack
 
-```txt
-Python • Spring Boot • Node.js
-AWS • Docker • Linux
-MySQL • REST APIs • DevOps
-Security • Automation • Infrastructure
-```
+Flutter • Dart • BLoC
+Python • Node.js • FastAPI
+AWS • Docker • SQL
+
 ---
 
 ## GitHub Stats
