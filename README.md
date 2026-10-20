@@ -1,3 +1,5 @@
+<div align="center">
+
 # Olá, eu sou o Lúcio Lima 👋
 
 **Automação de processos · Integrações · Atendimento com IA**
@@ -11,10 +13,10 @@ Estudante de Análise e Desenvolvimento de Sistemas na Unipê e estagiário de a
 
 ### 🔧 O que estou fazendo agora
 
-- Desenvolvendo **fluxos de automação no n8n** para captação e qualificação de leads
-- Integrando **WhatsApp e Chatwoot** para centralizar o atendimento entre setores
-- Construindo **agentes de IA** que respondem, triam e encaminham conversas
-- Estudando **APIs, webhooks** e boas práticas para manter automações seguras e fáceis de manter
+Desenvolvendo **fluxos de automação no n8n** para captação e qualificação de leads<br>
+Integrando **WhatsApp e Chatwoot** para centralizar o atendimento entre setores<br>
+Construindo **agentes de IA** que respondem, triam e encaminham conversas<br>
+Estudando **APIs, webhooks** e boas práticas para manter automações seguras e fáceis de manter
 
 ### 🧰 Ferramentas e tecnologias
 
@@ -49,4 +51,6 @@ Estudante de Análise e Desenvolvimento de Sistemas na Unipê e estagiário de a
 
 ---
 
-<sub>Sempre aberto a conversas sobre automação, integrações e IA aplicada ao dia a dia das empresas.</sub>
+<sub>Sempre aberto a conversar sobre automação, integrações e IA aplicada ao dia a dia das empresas.</sub>
+
+</div>
