@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Lúcio Lima 👋
+# Olá, eu sou o Lúcio Lima
 
 **AI Fullstack Engineer**
 
@@ -13,14 +13,14 @@ Construo sistemas que unem IA, automação e integrações para conectar ferrame
 
 ---
 
-### 🔧 O que estou fazendo agora
+### O que estou fazendo agora
 
 Desenvolvendo **fluxos de automação no n8n** para captação e qualificação de leads<br>
 Integrando **WhatsApp e Chatwoot** para centralizar o atendimento entre setores<br>
 Construindo **agentes de IA** que respondem, triam e encaminham conversas<br>
 Estudando **APIs, webhooks** e boas práticas para manter automações seguras e fáceis de manter
 
-### 🧰 Ferramentas e tecnologias
+### Ferramentas e tecnologias
 
 | Área | Tecnologias |
 | --- | --- |
@@ -44,7 +44,7 @@ Estudando **APIs, webhooks** e boas práticas para manter automações seguras e
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-### 📊 Atividade
+### Atividade
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=luciolimap&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub de Lúcio Lima" />
