@@ -2,9 +2,11 @@
 
 # Olá, eu sou o Lúcio Lima 👋
 
-**Automação de processos · Integrações · Atendimento com IA**
+**AI Fullstack Engineer**
 
-Estudante de Análise e Desenvolvimento de Sistemas na Unipê e estagiário de automação, construindo fluxos que conectam ferramentas, organizam o atendimento e tiram trabalho repetitivo do caminho das pessoas.
+Automação de processos · Integrações · Agentes de IA
+
+Construo sistemas que unem IA, automação e integrações para conectar ferramentas, organizar o atendimento e tirar trabalho repetitivo do caminho das pessoas.
 
 <a href="https://www.linkedin.com/in/luciolimap/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:luciolimap.contato@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
